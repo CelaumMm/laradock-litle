@@ -1,1 +1,3 @@
 *.conf
+!worker.conf
+!scheduler.conf
